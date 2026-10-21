@@ -56,8 +56,8 @@ mini project 2/
 │  │  ├─ BootScene.js      [예정] 에셋 불러오기 (T-06)
 │  │  ├─ MenuScene.js      [예정] 시작 화면 (T-08)
 │  │  └─ GameScene.js      [예정] 실제 플레이 (T-06)
-│  ├─ objects/             [예정] 플레이어, 적 같은 게임 오브젝트
-│  └─ systems/             [예정] 점수, 저장 같은 공통 기능
+│  ├─ objects/             [예정] 타워, 적, 투사체 같은 게임 오브젝트
+│  └─ systems/             [예정] 웨이브, 골드, 저장 같은 공통 기능
 ├─ public/
 │  └─ assets/              [예정] 이미지, 사운드 (출처는 assets/CREDITS.md에 기록)
 └─ docs/
